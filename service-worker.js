@@ -11,6 +11,8 @@ self.addEventListener('install', (event) => {
                 'style.css',
                 'script.js',
                 'manifest.json',
+                'iconos/galeria-192.png',
+                'iconos/galeria-512.png',
                 'iconos/asian-food.png',
                 'iconos/dine.png',
                 'iconos/dinner.png',
