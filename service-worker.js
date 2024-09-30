@@ -10,8 +10,18 @@ self.addEventListener('install', (event) => {
                 'index.html',
                 'style.css',
                 'script.js',
-                'manifest.json'
-                // iconos
+                'manifest.json',
+                'iconos/asian-food.png',
+                'iconos/dine.png',
+                'iconos/dinner.png',
+                'iconos/fast-food.png',
+                'iconos/food-and-beverage.png',
+                'iconos/food-delivery.png',
+                'iconos/fork.png',
+                'iconos/no-fast-food.png',
+                'iconos/olives.png',
+                'iconos/pepper-hot.png',
+                'iconos/vegan-food.png'
             ]);
         })
     );
