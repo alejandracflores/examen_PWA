@@ -6,25 +6,25 @@ self.addEventListener('install', (event) => {
         caches.open('pwa-cache-v1').then((cache) => {
             // Añade a la cache los archivos especificados para que estén disponibles en modo offline
             return cache.addAll([
-                '/',
-                'index.html',
-                'style.css',
-                'script.js',
-                'manifest.json',
-                'iconos/galeria-192.png',
-                'iconos/galeria-512.png',
-                'iconos/asian-food.png',
-                'iconos/dine.png',
-                'iconos/dinner.png',
-                'iconos/fast-food.png',
-                'iconos/food-and-beverage.png',
-                'iconos/food-delivery.png',
-                'iconos/fork.png',
-                'iconos/no-fast-food.png',
-                'iconos/olives.png',
-                'iconos/pepper-hot.png',
-                'iconos/vegan-food.png'
-            ]);
+                '/examen_PWA/',
+                '/examen_PWA/index.html',
+                '/examen_PWA/style.css',
+                '/examen_PWA/script.js',
+                '/examen_PWA/manifest.json',
+                '/examen_PWA/iconos/galeria-192.png',
+                '/examen_PWA/iconos/galeria-512.png',
+                '/examen_PWA/iconos/asian-food.png',
+                '/examen_PWA/iconos/dine.png',
+                '/examen_PWA/iconos/dinner.png',
+                '/examen_PWA/iconos/fast-food.png',
+                '/examen_PWA/iconos/food-and-beverage.png',
+                '/examen_PWA/iconos/food-delivery.png',
+                '/examen_PWA/iconos/fork.png',
+                '/examen_PWA/iconos/no-fast-food.png',
+                '/examen_PWA/iconos/olives.png',
+                '/examen_PWA/iconos/pepper-hot.png',
+                '/examen_PWA/iconos/vegan-food.png'
+            ]);            
         })
     );
 });
