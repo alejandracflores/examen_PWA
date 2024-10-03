@@ -13,17 +13,6 @@ self.addEventListener('install', (event) => {
                 '/examen_PWA/manifest.json',
                 '/examen_PWA/iconos/galeria-192.png',
                 '/examen_PWA/iconos/galeria-512.png',
-                '/examen_PWA/iconos/asian-food.png',
-                '/examen_PWA/iconos/dine.png',
-                '/examen_PWA/iconos/dinner.png',
-                '/examen_PWA/iconos/fast-food.png',
-                '/examen_PWA/iconos/food-and-beverage.png',
-                '/examen_PWA/iconos/food-delivery.png',
-                '/examen_PWA/iconos/fork.png',
-                '/examen_PWA/iconos/no-fast-food.png',
-                '/examen_PWA/iconos/olives.png',
-                '/examen_PWA/iconos/pepper-hot.png',
-                '/examen_PWA/iconos/vegan-food.png'
             ]);            
         })
     );

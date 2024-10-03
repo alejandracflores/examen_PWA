@@ -16,66 +16,6 @@
       "src": "/examen_PWA/Iconos/galeria-512.png",
       "sizes": "512x512",
       "type": "image/png"
-    },
-    {
-      "src": "/examen_PWA/Iconos/asian-food.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "/examen_PWA/Iconos/dine.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "/examen_PWA/Iconos/dinner.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "/examen_PWA/Iconos/fast-food.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "/examen_PWA/Iconos/food-and-beverage.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "/examen_PWA/Iconos/food-cart.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "/examen_PWA/Iconos/food-delivery.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "/examen_PWA/Iconos/fork.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "/examen_PWA/Iconos/no-fast-food.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "/examen_PWA/Iconos/olives.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "/examen_PWA/Iconos/pepper-hot.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "/examen_PWA/Iconos/vegan-food.png",
-      "sizes": "512x512",
-      "type": "image/png"
     }
   ]
 }
